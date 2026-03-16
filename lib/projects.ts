@@ -5,7 +5,7 @@ export const projects = [
       "Business website providing digital services and professional solutions.",
     tech: ["WordPress", "HTML", "CSS"],
     live: "https://kutumbhkam.com",
-    image: "/projects/kutumbhkam.png",
+    image: "/kutumbhkam.png",
   },
   {
     title: "Quarkleads – Business Website",
@@ -13,7 +13,7 @@ export const projects = [
       "Lead management focused business website with high-conversion landing pages.",
     tech: ["WordPress", "HTML"],
     live: "https://quarkleads.com",
-    image: "/projects/quarkleads.png",
+    image: "/quarkleads.png",
   },
   {
     title: "Adred – Service Website",
@@ -21,7 +21,7 @@ export const projects = [
       "Corporate service-based website showcasing services and enquiry system.",
     tech: ["WordPress", "HTML", "CSS", "Elementor"],
     live: "https://adred.in",
-    image: "/projects/adred.png",
+    image: "/adred.png",
   },
   {
     title: "Quarkleads – Business Website",
@@ -29,7 +29,7 @@ export const projects = [
       "Company profile website presenting services and business information.",
     tech: ["WordPress", "HTML", "CSS", ],
     live: "https://quarkleads.in",
-    image: "/projects/QUARKLEADS2.png",
+    image: "/QUARKLEADS2.png",
   },
   {
     title: "Quarkleads Blog",
@@ -37,6 +37,6 @@ export const projects = [
       "SEO-focused blog website designed for content publishing and category management.",
     tech: ["WordPress", "SEO Plugins"],
     live: "https://quarkleads.blog",
-    image: "/projects/QL BLOGS.png",
+    image: "/QL BLOGS.png",
   },
 ]
